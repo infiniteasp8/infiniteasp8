@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Coding Enthusiast
 -----------------------------------
 
-* 🌍  I'm based in Gorakhpur
+* 🌍  I'm from Lucknow and Studying in Gorakhpur.
 * ✉️  You can contact me at [anantsharanpandey@gmail.com](mailto:anantsharanpandey@gmail.com)
 * 🧠  I'm learning React js and Node js
 * 🤝  I'm open to collaborating on new and interesting projects.
