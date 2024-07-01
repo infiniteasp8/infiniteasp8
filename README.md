@@ -8,7 +8,7 @@ Web Developer and Coding Enthusiast
 * ✉️  You can contact me at [anantsharanpandey@gmail.com](mailto:anantsharanpandey@gmail.com)
 * 🧠  I'm MERN stack developer and learning Nextjs.
 * 🤝  I'm open to collaborating on new and interesting projects.
-* ⚡  I am a deep observer and bass can fix me.
+* ⚡  I am a deep observer and music heals me.
 
 ### Skills
 
