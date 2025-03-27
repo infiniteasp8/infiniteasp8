@@ -6,7 +6,7 @@ Web Developer and Coding Enthusiast
 
 * 🌍  I'm from Lucknow and Studying in Gorakhpur.
 * ✉️  You can contact me at [anantsharanpandey@gmail.com](mailto:anantsharanpandey@gmail.com)
-* 🧠  I'm MERN stack developer and learning Nextjs.
+* 🧠  I'm MERN stack developer and I love to brainstorm to solve problems efficiently.
 * 🤝  I'm open to collaborating on new and interesting projects.
 * ⚡  I am a deep observer and music heals me.
 
