@@ -1,20 +1,89 @@
-<h1 align="center">Hi 👋, I'm Anant Sharan Pandey</h1> <h3 align="center">💻 Web Developer | 🚀 MERN Stack Enthusiast | 🎯 Problem Solver</h3> <p align="center"> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" height="100"> </p>
-🚀 About Me
-🌍 Based in Lucknow | 📚 Studying in Gorakhpur
+<h1 align="center">👋 Namaste, I'm <span style="color:#27ae60;">Anant Sharan Pandey</span></h1>
+<p align="center"><i>Building the web, one pixel, one problem at a time.</i></p>
 
-🧑‍💻 Building scalable solutions with the MERN stack
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" />
+</p>
 
-🏆 Problem solver & hackathon explorer
+---
 
-🤝 Let’s collaborate on impactful projects!
+## 🧭 Who Am I?
 
-🕵️‍♂️ Lifelong learner | Curious observer | Music enthusiast
 
-📫 Reach me at: anantsharanpandey@gmail.com
+- 💡 Currently experimenting with **AI-powered web experiences**
+- 🏆 Hackathon enthusiast | Open Source believer
+- 💬 Connect with me: [Email](mailto:anantsharanpandey@gmail.com)
+- 🌱 Mission: Make code elegant, scalable & fun
 
-⚡ My Tech Stack
-<p align="center"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop"/> </p>
-🏆 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=infiniteasp8&show_icons=true&count_private=true&theme=radical" alt="infiniteasp8's GitHub Stats"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=infiniteasp8&theme=radical" alt="GitHub Streak"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infiniteasp8&layout=compact&theme=radical" alt="Top Languages"/> </p>
-🌐 Let’s Connect
-<p align="center"> <a href="https://github.com/infiniteasp8" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/infiniteasp8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="http://www.instagram.com/infinite_asp" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
+---
+
+## 🎨 Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,java,cpp,git,bootstrap,photoshop" />
+</p>
+
+---
+
+## 🚀 Recent Highlights
+
+- 🌟 **Built**: A real-time chat app, a code quiz engine, and collaborative whiteboard (all with React + Node!)
+- 🚦 **Solved**: 1200+ LeetCode problems, many live on-stream with fellow coders
+- 🏅 **Volunteer**: Mentor for junior devs, hackathon judge, open source contributor
+
+---
+
+## 👾 Secret Easter Eggs
+
+<details>
+  <summary>✨ Expand for a random developer fact</summary>
+  <ul>
+    <li>Can code faster than typing a WhatsApp message.</li>
+    <li>Believes debugging is a superpower (just ask my teammates).</li>
+    <li>Once built a website entirely in dark mode (it was a challenge, but fun!).</li>
+  </ul>
+</details>
+
+---
+
+## 📈 Stats & Journals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=infiniteasp8&show_icons=true&theme=aura" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infiniteasp8&theme=aura" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infiniteasp8&layout=compact&theme=aura" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/infiniteasp8"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/infiniteasp8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://instagram.com/infinite_asp"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=infiniteasp8&label=Profile+Views&color=27ae60&style=for-the-badge" />
+</p>
+
+---
+
+### 🥁 Quote to Code By
+
+> "The best code is written with empathy, not just logic."
+
+---
+
+<!-- Unique creative touch: ASCII signature and fun badge -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Anant%20Sharan%20Pandey-%23ff69b4?style=for-the-badge"/>
+</p>
+
+---
+
+
